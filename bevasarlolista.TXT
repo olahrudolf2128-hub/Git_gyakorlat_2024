@@ -6,3 +6,4 @@ ló
 kecske
 zöldség
 gyümölcs
+tök
