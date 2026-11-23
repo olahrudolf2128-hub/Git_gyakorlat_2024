@@ -7,3 +7,8 @@ kecske
 zöldség
 gyümölcs
 tök
+kalap
+ringó
+dinnye
+labda
+autó
